@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/
+
+# Maven/Java
+**/target/
+*.class
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+
+# Node/Vite
+Frontend/node_modules/
+Frontend/dist/
